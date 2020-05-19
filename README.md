@@ -1,5 +1,5 @@
 # audio_chat
-An audio and text chat between two computers using tcp_stream, select syscall and lportaudio library
+client-server program that provides text and voice chat facility using datagram socket, select syscall and lportaudio library
 
 audio recording implemented using lportaudio library
 
