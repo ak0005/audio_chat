@@ -1,5 +1,5 @@
 # audio_chat
-client-server program that provides text and voice chat facility using datagram socket, select syscall and lportaudio library
+client-server program that provides text and voice chat facility using stream socket, select syscall and lportaudio library
 
 audio recording implemented using lportaudio library
 
